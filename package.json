@@ -1,0 +1,19 @@
+{
+  "name": "user-api",
+  "version": "1.0.0",
+  "description": "A simple Node.js application that provides a RESTful API for managing user data.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "body-parser": "^1.19.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
