@@ -12,7 +12,7 @@ Once you have Node.js and NPM installed, you can clone this repository and insta
 
 ```
 git clone https://github.com/your-username/user-api.git
-cd user-api
+cd RestAPI-NodeJS
 npm install
 ```
 
